@@ -4,12 +4,12 @@
   <metadata>
     
     <id>sicalc</id>
-    <version>1</version>
+    <version>1.0</version>
     <description>Darf - Cálculo e impressão - Programa Sicalc</description>
     <title>Sicalc</title>
     <authors>Receita Federal</authors>
-    <owners>chocolatey,Rob Reynolds</owners>
-    <projectUrl>http://www.skype.com</projectUrl>
+    <owners>Fabio Valverde</owners>
+    <projectUrl>https://receita.economia.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/darf-calculo-e-impressao-programa-sicalc-1</projectUrl>
     <tags>Darf Cálculo e impressão Programa Sicalc Receita Federal</tags>
 
   </metadata>
