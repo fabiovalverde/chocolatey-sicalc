@@ -4,12 +4,14 @@
   <metadata>
     
     <id>sicalc</id>
-    <version>1.0</version>
+    <version>1</version>
     <description>Darf - Cálculo e impressão - Programa Sicalc</description>
     <title>Sicalc</title>
     <authors>Receita Federal</authors>
     <owners>chocolatey,Rob Reynolds</owners>
-    
+    <projectUrl>http://www.skype.com</projectUrl>
+    <tags>Darf Cálculo e impressão Programa Sicalc Receita Federal</tags>
+
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
