@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    
     <id>sicalc</id>
     <version>1.0</version>
-    <description>Darf - Cálculo e impressão - Programa Sicalc</description>
     <title>Sicalc</title>
     <authors>Receita Federal</authors>
-    <owners>Fabio Valverde</owners>
+    <owners>Receita Federal</owners>
+ 	<licenseUrl>https://receita.economia.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/darf-calculo-e-impressao-programa-sicalc-1/informacoes-uteis-sobre-o-sicalc</licenseUrl> 
     <projectUrl>https://receita.economia.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/darf-calculo-e-impressao-programa-sicalc-1</projectUrl>
-    <tags>Darf Cálculo e impressão Programa Sicalc Receita Federal</tags>
-
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Darf - Cálculo e impressão - Programa Sicalc</description>
+    <releaseNotes />
+    <tags>Darf Cálculo Impressão Programa Sicalc Receita Federal</tags>
+    <packageSourceUrl>https://github.com/fabiovalverde/chocolatey-sicalc/tree/master/sicalc/</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
