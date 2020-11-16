@@ -5,10 +5,11 @@
     <version>1.0</version>
     <title>Sicalc</title>
     <authors>Receita Federal</authors>
-    <owners>Receita Federal</owners>
+    <owners>Fábio Valverde</owners>
  	<licenseUrl>https://receita.economia.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/darf-calculo-e-impressao-programa-sicalc-1/informacoes-uteis-sobre-o-sicalc</licenseUrl> 
     <projectUrl>https://receita.economia.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/darf-calculo-e-impressao-programa-sicalc-1</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <summary>Darf - Cálculo e impressão</summary>
     <description>Darf - Cálculo e impressão - Programa Sicalc</description>
     <releaseNotes />
     <tags>Darf Cálculo Impressão Programa Sicalc Receita Federal</tags>
